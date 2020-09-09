@@ -21,3 +21,8 @@
   
 ##### Go to support room and mention one has " Developer Role " and type Hello, I want to remove my data
 ##### Then wait to one of them response.
+
+#### This is our [support server](https://discord.gg/dTWsep6) or contact [Mahmoud End#2421](https://discord.com/users/746545018545635379).
+
+### Please note, that we can change this policy without any warning at any given time.
+#### **Last changed:** `10/09/2020`
